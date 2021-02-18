@@ -1,0 +1,10 @@
+git branch -b
+
+different algorithm for merging
+
+git checkout
+
+get branch -d
+
+Merge conflicts happen when changes have been made to the branch you're trying to merge into.
+
