@@ -8,3 +8,4 @@ get branch -d
 
 Merge conflicts happen when changes have been made to the branch you're trying to merge into.
 
+Making changes on master to create a merge conflict with secondPart
